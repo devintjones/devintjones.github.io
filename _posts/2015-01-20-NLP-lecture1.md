@@ -1,6 +1,8 @@
 ---
 layout: post
 title: NLP Lecture 1
+category: NLP
+tags : [class notes]
 ---
 
 # NLP lecture 1

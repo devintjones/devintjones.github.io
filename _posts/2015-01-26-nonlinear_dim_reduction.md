@@ -1,4 +1,12 @@
-# Nonlinear dimention reduction
+---
+layout: post
+title: Nonlinear Dimension Reduction Class Notes
+category: Adv. Machine Learning
+tags : [Kernel PCA, Local Linear Embedding,class notes]
+---
+
+
+# Nonlinear dimension reduction
 
 ## manifold learning & embedding
 

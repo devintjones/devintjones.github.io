@@ -1,6 +1,14 @@
+---
+layout: post
+title: Truncated Gaussian Detection
+category: Adv. Machine Learning
+tags : [Gaussian Facial Recognition,class notes]
+---
+
+
 ## approximate sigma matrix with pca plus spherical term
 
-* need to computer inverse and determinate
+* need to compute inverse and determinate
 * -> 
 * only keep eigenvalues up to some M. set the rest to rho
 * approximate msigma: subtracted rho from eigvin vals, use rho*I to approxmate the rest
@@ -11,7 +19,7 @@
 
 This was the bets facial recognition algo up to 10 years ago
 
-## Gausian face recognition
+## Gaussian face recognition
 
 * measure the diffrenct between two faces - is this an acceptable difference to the be the same person?
 * difference between pictures is called delta
