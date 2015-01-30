@@ -95,20 +95,22 @@ Open(lexical) and closed (functional) categories
 * interjections
 
 ## POS Tags (some)
-___________________
-NN | singular noun
-IN | presopostion
-AT | article
-NP | proper noun
-JJ | adjective
-,  | comma
-NNS| plural noun
-CC | conjucntion
-RB | adverb
-VB | unflected verb
-VBN| verb + en
-VBD| verb + ed
-CS | subordinating conjuciton
+
+
+|---|---|
+|NN | singular noun|
+|IN | presopostion|
+|AT | article|
+|NP | proper noun|
+|JJ | adjective|
+|,  | comma|
+|NNS| plural noun|
+|CC | conjucntion|
+|RB | adverb|
+|VB | unflected verb|
+|VBN| verb + en|
+|VBD| verb + ed|
+|CS | subordinating conjuciton|
 
 ## Penn Treebank
 from the 90s, developed at U Penn (Marcus Santorini and Marcinkiewiz 93)
