@@ -77,7 +77,7 @@ _context_ defined as:
 * a common technique is poinwise mutual information (PMI)
 * $w$ is a word and $c$ is a feature from the context
 
-\PMI(w,c) = log \frac{P(W,c)}{P(w)P(c)}
+\[ PMI(w,c) = log \frac{P(W,c)}{P(w)P(c)} \]
 
 Measures the strength of the relationship of two words
 
