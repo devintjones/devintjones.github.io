@@ -88,6 +88,15 @@ In the case where there are the same words but differetn word order changes the 
 One method: Transform feature space to cartesian product of words and their syntactic representation (subject, verb, noun phrase etc)
 another: Use the bigrams as features
 
+## Unigram kernel
+Same as bag of words
+
+## Longer ngrams
+useful in information retireval - fast retrieval of similar docs
+
+## Letter and substring kernels
+* letter n grams - used for spelling correction, langugae recognition, and named entity recognition
+
 
 
 
