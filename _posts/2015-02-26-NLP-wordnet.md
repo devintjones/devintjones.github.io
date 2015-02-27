@@ -76,12 +76,17 @@ _context_ defined as:
 	* however, this is not sufficient
 * a common technique is poinwise mutual information (PMI)
 * $w$ is a word and $c$ is a feature from the context
-$$PMI(w,c) = log \frac{P(W,c)}{P(w)P(c)}$$
+
+\PMI(w,c) = log \frac{P(W,c)}{P(w)P(c)}
 
 Measures the strength of the relationship of two words
 
 
+# Text Kernels
+In the case where there are the same words but differetn word order changes the meaning of the sentence
 
+One method: Transform feature space to cartesian product of words and their syntactic representation (subject, verb, noun phrase etc)
+another: Use the bigrams as features
 
 
 
