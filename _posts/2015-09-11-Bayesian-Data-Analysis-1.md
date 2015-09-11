@@ -17,4 +17,9 @@ Folk theorm: if its hard to compute, its a bad model
 * Does inferenc emake sense? 
 	* do the results align with your prior belief?
 
+## Bayesian ideas to improve existing methods
+* Regularization
+	* avoid estimates that dont fit youre beleif
+	* avoid overfitting
+
 
